@@ -1,0 +1,3 @@
+[submodule "syspatch"]
+	path = syspatch
+	url = https://github.com/0x4248/syspatch

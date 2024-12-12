@@ -1,0 +1,5 @@
+# This is the meta data for your patch
+name="My patch name"
+description="My patch description"
+version="1.0.0"
+reboot_required=false
