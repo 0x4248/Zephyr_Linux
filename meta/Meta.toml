@@ -1,5 +1,4 @@
-# This is the meta data for your patch
-name="My patch name"
-description="My patch description"
+name="Zypher Linux"
+description="A arch linux patch"
 version="1.0.0"
 reboot_required=false
