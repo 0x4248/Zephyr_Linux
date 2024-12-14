@@ -1,4 +1,4 @@
 name="Zypher Linux"
 description="A arch linux patch"
 version="1.0.0"
-reboot_required=false
+reboot_required=true
